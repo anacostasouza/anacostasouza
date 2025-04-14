@@ -13,22 +13,26 @@
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
 💻 **Desenvolvedora Full Stack em formação**  
-🌐 [Meu Portfólio](https://anacostasouza.github.io/perfil/)
+🎨 **Web Designer Júnior com experiência em design gráfico**  
+🖌️ **Conhecimentos em Adobe Photoshop e CorelDRAW**  
 
 ---
 
- 🚀 Tecnologias & Ferramentas
+### 🚀 Tecnologias & Ferramentas
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" alt="Photoshop"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" alt="Illustrator"/>
 </div>
 
 ---
 
- 📊 Estatísticas do GitHub
+### 📊 Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anacostasouza&show_icons=true&theme=dracula" alt="Estatísticas do GitHub">
@@ -36,8 +40,8 @@
 
 ---
 
- 📫 Entre em Contato
+### 📫 Entre em Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ana-souza-9831242bb/)
-- 🌐 [Portfólio](https://anacostasouza.github.io/perfil/)
-- 📧 Email: seuemail@example.com
+- 🌐 [Site](https://anacostasouza.github.io/perfil/)
+- 📧 Email: anamariacostasouza93@gmail.com
