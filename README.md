@@ -44,6 +44,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=anacostasouza&theme=dracula" alt="GitHub Streak"/>
 </p>
+
 ---
 
 ### 📫 Entre em Contato
