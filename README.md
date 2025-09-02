@@ -33,12 +33,17 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anacostasouza&show_icons=true&theme=dracula" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=anacostasouza&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="180em"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacostasouza&layout=compact&theme=dracula" height="180em"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=anacostasouza&theme=dracula" alt="GitHub Streak"/>
+</p>
 ---
 
 ### 📫 Entre em Contato
