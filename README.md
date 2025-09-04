@@ -1,5 +1,3 @@
-<h1 align="center">Olá, eu sou a Ana Souza 👋</h1>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/ana-souzac/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
