@@ -56,6 +56,7 @@ Me chamo Ana Souza, tenho 20 anos e sou natural de Minas Gerais. Atualmente esto
     <img src="https://raw.githubusercontent.com/anacostasouza/anacostasouza/output/github-contribution-grid-snake.svg" alt="Snake animation" />
   </picture>
 </p>
+
 ---
 
 ### 📫 Entre em Contato
