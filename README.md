@@ -1,6 +1,6 @@
 ---
 <h1 align=center>Ana Souza</h1>
-Me chamo Ana Souza, tenho 21 anos e sou natural de Minas Gerais. Atualmente estou cursando Análise e Desenvolvimento de Sistemas pela UNA de Sete Lagoas com previsão de conclusão para julho de 2026. Sempre me interessei por tecnologia, foco meus estudos para me tornar uma desenvolvedora Full Stack
+Me chamo Ana Souza, tenho 21 anos e sou natural de Minas Gerais. Formada em Análise e Desenvolvimento de Sistemas pela UNA de Sete Lagoas. Sempre me interessei por tecnologia, foco meus estudos para me tornar uma desenvolvedora Full Stack
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ana-souzac/" target="_blank">
