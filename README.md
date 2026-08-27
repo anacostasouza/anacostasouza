@@ -13,10 +13,10 @@ Me chamo Ana Souza, tenho 21 anos e sou natural de Minas Gerais. Formada em Aná
 
 ---
 
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas**  
+🎓 **Formada em Análise e Desenvolvimento de Sistemas**  
 💻 **Desenvolvedora Full Stack em formação**  
 🎨 **Web Designer Júnior com experiência em design gráfico**  
-🖌️ **Conhecimentos em Adobe Photoshop e CorelDRAW**  
+🖌️ **Conhecimentos em CorelDRAW**  
 🌐 [Meu Site](https://anacostasouza.github.io/perfil/)
 
 ---
